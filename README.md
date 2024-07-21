@@ -1,12 +1,7 @@
-### Hi there 👋
-- 👋 Hi, I’m @SamuelOsunnaya
-- 👀 I'm a Bioinformatics/Data analyst
-- 🌱 I’m currently learning deep learning with python
-- 💞️ I’m looking to collaborate with data analysts and scientists, genomics and bioinformatics researchers
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to read a lot
+### Hi there 👋, Samuel Osunnaya
+#### Bioinformatics/Data Analyst
+I am a Bioinformatics/Data enthusiast. I use Linux, R, and Python to analyze biological data and conduct insillico research. I am interested in Data Science, Genomics, and Bioinformatics.
 
-<!---
-SamuelOsunnaya/SamuelOsunnaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Linux/ R/ Python
+
+- 🔭 I’m currently working on this page. 
